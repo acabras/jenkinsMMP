@@ -1,0 +1,3 @@
+[submodule "jenkinsLib"]
+	path = jenkinsLib
+	url = https://github.com/acabras/jenkinsLib
