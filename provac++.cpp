@@ -6,5 +6,5 @@ int main(){
   cout<<"Hello 2"<<endl;
   cout<<"Hello 3"<<endl;
     cout<<"Hello 4"<<endl;
-  cout<<"Hello 5"<<endl;
+  cout<<"Hello 6"<<endl;
 }
