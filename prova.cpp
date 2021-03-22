@@ -8,4 +8,5 @@ int main(){
     cout<<"Hello 4"<<endl;
   cout <<"Hello 5"<<endl
 	  miao
+	  bau
 }
