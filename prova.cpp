@@ -9,4 +9,5 @@ int main(){
   cout <<"Hello 5"<<endl
 	  miao
 	  bau
+	  miao
 }
