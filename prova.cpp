@@ -11,4 +11,5 @@ int main(){
 	  bau
 	  miao
 	  bau
+	  miao
 }
